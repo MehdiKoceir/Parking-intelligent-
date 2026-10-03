@@ -286,6 +286,9 @@ Simulation validates:
 | HC-SR04 Sensors | ✅ |
 | Servo Motor | ✅ |
 
+<img width="828" height="1472" alt="image" src="https://github.com/user-attachments/assets/ac82b34f-466c-4032-bf4b-be2cbf1e7791" />
+
+
 ---
 
 # 👨‍💻 Author
